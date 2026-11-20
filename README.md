@@ -2,6 +2,12 @@
 
 Quería responder una pregunta sencilla: **¿vale la pena cambiar la versión A de una página por la B?** Para hacerlo, analicé los datos de 40,000 usuarios y comparé conversiones, gasto e ingreso por usuario.
 
+## La decisión detrás de la prueba
+
+Para comparar las versiones no me quedé solo con cuántas personas compraban: revisé también cuánto ingreso generaba cada usuario expuesto a la página. Así podía distinguir una mejora en conversión de una diferencia en el gasto de quienes ya habían comprado.
+
+Los dos indicadores favorecieron a B y las diferencias fueron estadísticamente significativas. La consideraría la candidata para un cambio, después de revisar que la asignación de usuarios fuera adecuada y que no empeoraran otras métricas. La comparación por fuente de tráfico abre preguntas adicionales, pero no justificaría invertir más en un canal sin conocer sus costos.
+
 ## Lo más importante
 
 | Indicador | Versión A | Versión B |
